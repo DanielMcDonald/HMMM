@@ -1,0 +1,5 @@
+ADDING TEXT TO NEWFILE
+
+newfile was pushed from local machine
+
+this edit is done via github site, to test pull
