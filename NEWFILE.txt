@@ -1,4 +1,4 @@
-ADDING TEXT TO NEWFILE
+ADDING TEXT TO NEWFILE BY SARA
 
 newfile was pushed from local machine
 
