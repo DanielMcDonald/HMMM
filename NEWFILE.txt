@@ -1,4 +1,5 @@
-ADDING TEXT TO NEWFILE BY SARA
+ADDING TEXT TO <adding this> NEWFILE BY SARA
+I have added this -Sara
 
 newfile was pushed from local machine
 
